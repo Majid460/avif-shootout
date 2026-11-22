@@ -1,0 +1,55 @@
+file,status,frames,width,height,depth,fnv1a,median_ms,min_ms
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/abc_color_irot_alpha_NOirot.avif,OK,1,512,256,8,822dfd06f6748a40,8.812,8.721
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/abc_color_irot_alpha_irot.avif,OK,1,512,256,8,822dfd06f6748a40,8.873,8.705
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/alpha_noispe.avif,BMFF parsing failed,0,0,0,0,14650fb0739d0383,0.005,0.004
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/arc_triomphe_extent1000_nullbyte_extent1310.avif,OK,1,64,64,8,7920cd394b8f4614,0.736,0.629
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/circle_custom_properties.avif,OK,1,100,60,8,0eaa55e4ed54cd8d,0.528,0.447
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/clap_irot_imir_non_essential.avif,BMFF parsing failed,0,0,0,0,14650fb0739d0383,0.004,0.004
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/clop_irot_imor.avif,OK,1,12,34,10,a4ac9080646a186d,0.078,0.076
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/color_grid_alpha_grid_gainmap_nogrid.avif,OK,1,512,600,10,d1f47c8893759a63,15.293,15.099
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/color_grid_alpha_grid_tile_shared_in_dimg.avif,Not implemented,0,0,0,0,14650fb0739d0383,0.006,0.006
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/color_grid_alpha_nogrid.avif,OK,1,80,80,8,f1f2152b55405de4,0.770,0.707
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/color_grid_gainmap_different_grid.avif,OK,1,512,600,10,d1f47c8893759a63,14.004,12.551
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/color_nogrid_alpha_nogrid_gainmap_grid.avif,OK,1,128,200,10,2f15e092419e9722,1.120,1.059
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/colors-animated-12bpc-keyframes-0-2-3.avif,OK,5,64,64,12,59647bf5e7210a00,1.405,1.328
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/colors-animated-8bpc-alpha-exif-xmp.avif,OK,5,150,150,8,3bd2b755fc47504e,5.294,4.522
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/colors-animated-8bpc-audio.avif,OK,5,150,150,8,362276230fa64dc3,5.017,4.724
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/colors-animated-8bpc-depth-exif-xmp.avif,OK,5,150,150,8,c845ea3f4e6fbe36,5.159,4.878
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/colors-animated-8bpc.avif,OK,5,150,150,8,362276230fa64dc3,4.913,4.768
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/colors_hdr_p3.avif,OK,1,200,200,10,63331fdc8db1cff6,5.412,5.376
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/colors_hdr_rec2020.avif,OK,1,200,200,10,188fe2789ae599b9,5.295,5.158
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/colors_hdr_srgb.avif,OK,1,200,200,10,ceaac423bf4c4ed4,5.800,5.474
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/colors_sdr_srgb.avif,OK,1,200,200,8,2b1e9f4d648a6a90,6.020,5.905
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/colors_text_hdr_p3.avif,OK,1,200,200,10,6bea643d06ec62aa,5.010,4.918
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/colors_text_hdr_rec2020.avif,OK,1,200,200,10,1302b4707a206904,5.260,5.043
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/colors_text_hdr_srgb.avif,OK,1,200,200,10,da15b9496310ff20,5.998,5.392
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/colors_text_sdr_srgb.avif,OK,1,200,200,8,44fc2220b4b8ab84,7.201,6.598
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/colors_text_wcg_hdr_rec2020.avif,OK,1,200,200,10,1c40a40875ef0c50,5.440,4.701
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/colors_text_wcg_sdr_rec2020.avif,OK,1,200,200,8,469d5e96c00eb560,5.638,5.623
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/colors_wcg_hdr_rec2020.avif,OK,1,200,200,10,0881bbe885e7a3fd,4.396,4.350
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/draw_points_idat.avif,OK,1,33,11,8,09c40d0cbd70cfc1,0.074,0.072
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/draw_points_idat_metasize0.avif,OK,1,33,11,8,09c40d0cbd70cfc1,0.075,0.074
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/draw_points_idat_progressive.avif,OK,1,33,11,8,09c40d0cbd70cfc1,0.094,0.091
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/draw_points_idat_progressive_metasize0.avif,OK,1,33,11,8,09c40d0cbd70cfc1,0.094,0.092
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/extended_pixi.avif,OK,1,4,4,8,997a393e3e78b140,0.019,0.018
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/paris_icc_exif_xmp.avif,OK,1,403,302,8,0bd0bae670ceaf89,5.323,5.262
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/poc_b_506387278.avif,OK,2,128,64,8,8085ca20b1f20383,0.476,0.470
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/seine_hdr_gainmap_small_srgb.avif,OK,1,400,300,10,6830c00a62849500,9.415,9.371
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/seine_hdr_gainmap_srgb.avif,OK,1,400,300,10,6830c00a62849500,9.439,9.312
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/seine_hdr_gainmap_wrongaltr.avif,OK,1,400,300,10,6830c00a62849500,9.357,8.286
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/seine_hdr_rec2020.avif,OK,1,400,300,10,ab5d8b1e4a551ff3,8.549,8.454
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/seine_hdr_srgb.avif,OK,1,400,300,10,4f55eca57c09410c,10.318,8.993
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/seine_sdr_gainmap_big_srgb.avif,OK,1,400,300,8,5ab20a7ffc7bc228,9.404,9.317
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/seine_sdr_gainmap_gammazero.avif,Invalid tone mapped image item,0,0,0,0,14650fb0739d0383,0.005,0.004
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/seine_sdr_gainmap_notmapbrand.avif,OK,1,400,300,8,093b16cfa4fc36cc,9.700,9.636
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/seine_sdr_gainmap_srgb.avif,OK,1,400,300,8,093b16cfa4fc36cc,9.698,9.580
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/seine_sdr_gainmap_srgb_icc.avif,OK,1,400,300,8,467b6cf762d2bccc,9.398,9.362
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/sofa_grid1x5_420.avif,OK,1,1024,770,8,e69799601c6f4399,29.874,29.432
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/sofa_grid1x5_420_dimg_repeat.avif,Invalid image grid,0,0,0,0,14650fb0739d0383,0.004,0.004
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/sofa_grid1x5_420_reversed_dimg_order.avif,OK,1,1024,770,8,0d615dc86660eab3,34.398,34.222
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/supported_gainmap_writer_version_with_extra_bytes.avif,Invalid tone mapped image item,0,0,0,0,14650fb0739d0383,0.007,0.006
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/unsupported_gainmap_minimum_version.avif,OK,1,100,100,10,146d6d4f88f005bb,0.522,0.516
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/unsupported_gainmap_version.avif,OK,1,100,100,10,146d6d4f88f005bb,0.535,0.517
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/unsupported_gainmap_writer_version_with_extra_bytes.avif,OK,1,100,100,10,146d6d4f88f005bb,0.513,0.512
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/weld_sato_12B_8B_q0.avif,OK,1,1024,684,12,52ab54792e5e1f98,25.344,22.619
+/Users/macbookpro/AndroidStudioProjects/avif-shootout/third_party/libavif/tests/data/white_1x1.avif,OK,1,1,1,8,00f96a7ac5358515,0.023,0.021

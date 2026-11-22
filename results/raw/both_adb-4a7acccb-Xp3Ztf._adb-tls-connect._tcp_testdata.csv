@@ -1,0 +1,55 @@
+file,w,h,depth,l_status,c_status,frames,identical,max_diff,pct_bytes_diff,l_median_ms,c_median_ms,ratio
+data/abc_color_irot_alpha_NOirot.avif,512,256,8,OK,Ok,1,1,0,0.000,7.794,8.397,1.077
+data/abc_color_irot_alpha_irot.avif,512,256,8,OK,Ok,1,1,0,0.000,8.004,8.493,1.061
+data/alpha_noispe.avif,0,0,0,BMFF parsing failed,BMFF parsing failed,0,1,0,0.000,0.004,0.015,3.393
+data/arc_triomphe_extent1000_nullbyte_extent1310.avif,64,64,8,OK,Ok,1,1,0,0.000,0.626,0.684,1.093
+data/circle_custom_properties.avif,100,60,8,OK,Ok,1,1,0,0.000,0.629,0.717,1.140
+data/clap_irot_imir_non_essential.avif,0,0,0,BMFF parsing failed,BMFF parsing failed,0,1,0,0.000,0.006,0.016,2.735
+data/clop_irot_imor.avif,12,34,10,OK,Ok,1,1,0,0.000,0.310,0.350,1.130
+data/color_grid_alpha_grid_gainmap_nogrid.avif,512,600,10,OK,Ok,1,1,0,0.000,17.346,20.297,1.170
+data/color_grid_alpha_grid_tile_shared_in_dimg.avif,0,0,0,Not implemented,BMFF parsing failed,0,1,0,0.000,0.008,0.057,6.745
+data/color_grid_alpha_nogrid.avif,80,80,8,OK,Ok,1,1,0,0.000,0.744,0.846,1.138
+data/color_grid_gainmap_different_grid.avif,512,600,10,OK,Ok,1,1,0,0.000,17.462,20.336,1.165
+data/color_nogrid_alpha_nogrid_gainmap_grid.avif,128,200,10,OK,Ok,1,1,0,0.000,1.543,1.816,1.177
+data/colors-animated-12bpc-keyframes-0-2-3.avif,64,64,12,OK,Ok,5,1,0,0.000,2.131,2.457,1.153
+data/colors-animated-8bpc-alpha-exif-xmp.avif,150,150,8,OK,Ok,5,1,0,0.000,5.710,5.815,1.018
+data/colors-animated-8bpc-audio.avif,150,150,8,OK,Ok,5,1,0,0.000,4.849,5.099,1.051
+data/colors-animated-8bpc-depth-exif-xmp.avif,150,150,8,OK,Ok,5,1,0,0.000,5.254,5.283,1.005
+data/colors-animated-8bpc.avif,150,150,8,OK,Ok,5,1,0,0.000,4.871,5.005,1.027
+data/colors_hdr_p3.avif,200,200,10,OK,Ok,1,1,0,0.000,4.289,4.550,1.061
+data/colors_hdr_rec2020.avif,200,200,10,OK,Ok,1,1,0,0.000,4.202,4.440,1.057
+data/colors_hdr_srgb.avif,200,200,10,OK,Ok,1,1,0,0.000,4.532,4.823,1.064
+data/colors_sdr_srgb.avif,200,200,8,OK,Ok,1,1,0,0.000,4.822,5.127,1.063
+data/colors_text_hdr_p3.avif,200,200,10,OK,Ok,1,1,0,0.000,4.604,4.998,1.086
+data/colors_text_hdr_rec2020.avif,200,200,10,OK,Ok,1,1,0,0.000,4.462,4.767,1.068
+data/colors_text_hdr_srgb.avif,200,200,10,OK,Ok,1,1,0,0.000,4.912,5.265,1.072
+data/colors_text_sdr_srgb.avif,200,200,8,OK,Ok,1,1,0,0.000,5.325,5.540,1.040
+data/colors_text_wcg_hdr_rec2020.avif,200,200,10,OK,Ok,1,1,0,0.000,4.766,5.097,1.069
+data/colors_text_wcg_sdr_rec2020.avif,200,200,8,OK,Ok,1,1,0,0.000,5.538,5.838,1.054
+data/colors_wcg_hdr_rec2020.avif,200,200,10,OK,Ok,1,1,0,0.000,4.478,4.786,1.069
+data/draw_points_idat.avif,33,11,8,OK,Ok,1,1,0,0.000,0.335,0.357,1.066
+data/draw_points_idat_metasize0.avif,33,11,8,OK,Ok,1,1,0,0.000,0.319,0.327,1.028
+data/draw_points_idat_progressive.avif,33,11,8,OK,Ok,1,1,0,0.000,0.331,0.367,1.112
+data/draw_points_idat_progressive_metasize0.avif,33,11,8,OK,Ok,1,1,0,0.000,0.332,0.362,1.090
+data/extended_pixi.avif,4,4,8,OK,Not implemented,1,0,-1,0.000,0.129,0.153,1.185
+data/paris_icc_exif_xmp.avif,403,302,8,OK,Ok,1,1,0,0.000,6.877,7.351,1.069
+data/poc_b_506387278.avif,128,64,8,OK,Ok,2,1,0,0.000,0.761,0.824,1.082
+data/seine_hdr_gainmap_small_srgb.avif,400,300,10,OK,Ok,1,1,0,0.000,11.158,11.931,1.069
+data/seine_hdr_gainmap_srgb.avif,400,300,10,OK,Ok,1,1,0,0.000,11.037,11.914,1.079
+data/seine_hdr_gainmap_wrongaltr.avif,400,300,10,OK,Ok,1,1,0,0.000,11.035,11.814,1.071
+data/seine_hdr_rec2020.avif,400,300,10,OK,Ok,1,1,0,0.000,12.018,12.902,1.074
+data/seine_hdr_srgb.avif,400,300,10,OK,Ok,1,1,0,0.000,12.457,13.311,1.069
+data/seine_sdr_gainmap_big_srgb.avif,400,300,8,OK,Ok,1,1,0,0.000,10.101,10.728,1.062
+data/seine_sdr_gainmap_gammazero.avif,0,0,0,Invalid tone mapped image item,Invalid tone mapped image item,0,1,0,0.000,0.007,0.023,3.265
+data/seine_sdr_gainmap_notmapbrand.avif,400,300,8,OK,Ok,1,1,0,0.000,10.688,11.263,1.054
+data/seine_sdr_gainmap_srgb.avif,400,300,8,OK,Ok,1,1,0,0.000,10.724,11.308,1.054
+data/seine_sdr_gainmap_srgb_icc.avif,400,300,8,OK,Ok,1,1,0,0.000,10.943,11.545,1.055
+data/sofa_grid1x5_420.avif,1024,770,8,OK,Ok,1,1,0,0.000,45.112,276.021,6.119
+data/sofa_grid1x5_420_dimg_repeat.avif,0,0,0,Invalid image grid,BMFF parsing failed,0,1,0,0.000,0.005,0.024,5.329
+data/sofa_grid1x5_420_reversed_dimg_order.avif,1024,770,8,OK,Ok,1,1,0,0.000,45.087,45.087,1.000
+data/supported_gainmap_writer_version_with_extra_bytes.avif,0,0,0,Invalid tone mapped image item,Invalid tone mapped image item,0,1,0,0.000,0.008,0.027,3.374
+data/unsupported_gainmap_minimum_version.avif,100,100,10,OK,Ok,1,1,0,0.000,0.789,0.933,1.182
+data/unsupported_gainmap_version.avif,100,100,10,OK,Ok,1,1,0,0.000,0.781,0.894,1.145
+data/unsupported_gainmap_writer_version_with_extra_bytes.avif,100,100,10,OK,Ok,1,1,0,0.000,0.782,0.931,1.190
+data/weld_sato_12B_8B_q0.avif,1024,684,12,OK,Ok,1,0,2,39.231,27.389,349.885,12.775
+data/white_1x1.avif,1,1,8,OK,Ok,1,1,0,0.000,0.135,0.158,1.169

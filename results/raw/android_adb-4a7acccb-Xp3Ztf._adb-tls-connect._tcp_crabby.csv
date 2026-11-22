@@ -1,0 +1,55 @@
+file,status,frames,width,height,depth,fnv1a,median_ms,min_ms
+data/abc_color_irot_alpha_NOirot.avif,Ok,1,512,256,8,822dfd06f6748a40,8.625,8.529
+data/abc_color_irot_alpha_irot.avif,Ok,1,512,256,8,822dfd06f6748a40,8.586,8.471
+data/alpha_noispe.avif,BMFF parsing failed,0,0,0,0,14650fb0739d0383,0.013,0.013
+data/arc_triomphe_extent1000_nullbyte_extent1310.avif,Ok,1,64,64,8,7920cd394b8f4614,0.697,0.658
+data/circle_custom_properties.avif,Ok,1,100,60,8,0eaa55e4ed54cd8d,0.708,0.684
+data/clap_irot_imir_non_essential.avif,BMFF parsing failed,0,0,0,0,14650fb0739d0383,0.014,0.014
+data/clop_irot_imor.avif,Ok,1,12,34,10,a4ac9080646a186d,0.407,0.329
+data/color_grid_alpha_grid_gainmap_nogrid.avif,Ok,1,512,600,10,d1f47c8893759a63,19.418,19.134
+data/color_grid_alpha_grid_tile_shared_in_dimg.avif,BMFF parsing failed,0,0,0,0,14650fb0739d0383,0.041,0.041
+data/color_grid_alpha_nogrid.avif,Ok,1,80,80,8,f1f2152b55405de4,0.817,0.791
+data/color_grid_gainmap_different_grid.avif,Ok,1,512,600,10,d1f47c8893759a63,19.555,19.291
+data/color_nogrid_alpha_nogrid_gainmap_grid.avif,Ok,1,128,200,10,2f15e092419e9722,1.762,1.709
+data/colors-animated-12bpc-keyframes-0-2-3.avif,Ok,5,64,64,12,59647bf5e7210a00,2.460,2.411
+data/colors-animated-8bpc-alpha-exif-xmp.avif,Ok,5,150,150,8,3bd2b755fc47504e,5.889,5.762
+data/colors-animated-8bpc-audio.avif,Ok,5,150,150,8,362276230fa64dc3,4.869,4.815
+data/colors-animated-8bpc-depth-exif-xmp.avif,Ok,5,150,150,8,c845ea3f4e6fbe36,5.274,5.198
+data/colors-animated-8bpc.avif,Ok,5,150,150,8,362276230fa64dc3,4.826,4.766
+data/colors_hdr_p3.avif,Ok,1,200,200,10,63331fdc8db1cff6,4.578,4.518
+data/colors_hdr_rec2020.avif,Ok,1,200,200,10,188fe2789ae599b9,4.468,4.425
+data/colors_hdr_srgb.avif,Ok,1,200,200,10,ceaac423bf4c4ed4,4.858,4.831
+data/colors_sdr_srgb.avif,Ok,1,200,200,8,2b1e9f4d648a6a90,5.175,5.120
+data/colors_text_hdr_p3.avif,Ok,1,200,200,10,6bea643d06ec62aa,4.875,4.803
+data/colors_text_hdr_rec2020.avif,Ok,1,200,200,10,1302b4707a206904,4.779,4.729
+data/colors_text_hdr_srgb.avif,Ok,1,200,200,10,da15b9496310ff20,5.211,5.177
+data/colors_text_sdr_srgb.avif,Ok,1,200,200,8,44fc2220b4b8ab84,5.614,5.530
+data/colors_text_wcg_hdr_rec2020.avif,Ok,1,200,200,10,1c40a40875ef0c50,5.107,5.058
+data/colors_text_wcg_sdr_rec2020.avif,Ok,1,200,200,8,469d5e96c00eb560,5.859,5.811
+data/colors_wcg_hdr_rec2020.avif,Ok,1,200,200,10,0881bbe885e7a3fd,4.782,4.738
+data/draw_points_idat.avif,Ok,1,33,11,8,09c40d0cbd70cfc1,0.322,0.318
+data/draw_points_idat_metasize0.avif,Ok,1,33,11,8,09c40d0cbd70cfc1,0.318,0.316
+data/draw_points_idat_progressive.avif,Ok,1,33,11,8,09c40d0cbd70cfc1,0.372,0.346
+data/draw_points_idat_progressive_metasize0.avif,Ok,1,33,11,8,09c40d0cbd70cfc1,0.351,0.346
+data/extended_pixi.avif,Not implemented,0,0,0,0,14650fb0739d0383,0.151,0.134
+data/paris_icc_exif_xmp.avif,Ok,1,403,302,8,0bd0bae670ceaf89,7.245,7.168
+data/poc_b_506387278.avif,Ok,2,128,64,8,8085ca20b1f20383,0.814,0.792
+data/seine_hdr_gainmap_small_srgb.avif,Ok,1,400,300,10,6830c00a62849500,12.086,11.932
+data/seine_hdr_gainmap_srgb.avif,Ok,1,400,300,10,6830c00a62849500,12.056,11.901
+data/seine_hdr_gainmap_wrongaltr.avif,Ok,1,400,300,10,6830c00a62849500,12.025,11.918
+data/seine_hdr_rec2020.avif,Ok,1,400,300,10,ab5d8b1e4a551ff3,12.577,12.497
+data/seine_hdr_srgb.avif,Ok,1,400,300,10,4f55eca57c09410c,13.365,13.226
+data/seine_sdr_gainmap_big_srgb.avif,Ok,1,400,300,8,5ab20a7ffc7bc228,10.927,10.773
+data/seine_sdr_gainmap_gammazero.avif,Invalid tone mapped image item,0,0,0,0,14650fb0739d0383,0.021,0.021
+data/seine_sdr_gainmap_notmapbrand.avif,Ok,1,400,300,8,093b16cfa4fc36cc,11.372,11.219
+data/seine_sdr_gainmap_srgb.avif,Ok,1,400,300,8,093b16cfa4fc36cc,11.377,11.266
+data/seine_sdr_gainmap_srgb_icc.avif,Ok,1,400,300,8,467b6cf762d2bccc,11.576,11.388
+data/sofa_grid1x5_420.avif,Ok,1,1024,770,8,e69799601c6f4399,45.307,44.747
+data/sofa_grid1x5_420_dimg_repeat.avif,BMFF parsing failed,0,0,0,0,14650fb0739d0383,0.022,0.022
+data/sofa_grid1x5_420_reversed_dimg_order.avif,Ok,1,1024,770,8,0d615dc86660eab3,45.091,44.609
+data/supported_gainmap_writer_version_with_extra_bytes.avif,Invalid tone mapped image item,0,0,0,0,14650fb0739d0383,0.024,0.023
+data/unsupported_gainmap_minimum_version.avif,Ok,1,100,100,10,146d6d4f88f005bb,0.924,0.865
+data/unsupported_gainmap_version.avif,Ok,1,100,100,10,146d6d4f88f005bb,0.910,0.882
+data/unsupported_gainmap_writer_version_with_extra_bytes.avif,Ok,1,100,100,10,146d6d4f88f005bb,0.888,0.881
+data/weld_sato_12B_8B_q0.avif,Ok,1,1024,684,16,bee3c6a6956e5548,379.677,122.458
+data/white_1x1.avif,Ok,1,1,1,8,00f96a7ac5358515,0.155,0.140
